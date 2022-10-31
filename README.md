@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Gradi0us
 - 🌱 I’m currently learning Java,kotlin,bla....
 - 💞️ I’m looking to collaborate on FPT-Polytechnic
+- 📫 How to reach me: {
+- Mail: hieunguyen20032302@gmail.com 
+- Facebook: https://www.facebook.com/profile.php?id=100009825420071
 
 <!---
 Gradi0us/Gradi0us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
