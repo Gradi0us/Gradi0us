@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gradi0us
 - 🌱 I'm currently an intern for full-stack mobile application development.
-- 💞️ I’m looking to collaborate on FPT-Software
 - 📫 Contact for work: {
 - Mail: hieunguyen20032302@gmail.com 
 - Facebook: https://www.facebook.com/profile.php?id=100009825420071
